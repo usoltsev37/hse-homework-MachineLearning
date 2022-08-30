@@ -1,1 +1,1 @@
-# Machine Learning Homework (HSE SPb semester 5)
+# Machine Learning Homework — HSE SPb semester 5
